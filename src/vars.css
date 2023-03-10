@@ -1,0 +1,10 @@
+html {
+  --bg-primary: #151517;
+  --bg-secondary: #28282e;
+  --bg-tertiary: #353543;
+  --text-primary: #cacaff;
+  --text-secondary: #d6d6eb;
+  --text-tertiary: #eaeaf0;
+
+  --semantic-error: #ff7575;
+}
